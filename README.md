@@ -1,9 +1,9 @@
 # OOP
 Python Object Oriented Programming 
 
-You are surrounded with **Objects** (Laptop, Mobile, Dog, Person, Book)
+- You are surrounded with **Objects** (Laptop, Mobile, Dog, Person, Book)
 
-> Every **Real World Entity** is an **Object**.
+- Every **Real World Entity** is an **Object**.
 
 ### Class
 
